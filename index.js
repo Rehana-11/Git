@@ -1,5 +1,5 @@
 console.log("welcome all");
 
-for (let i = 0; i < 5; i++) {
-    console.log("Reh");
+for(var i=0; i<5; i++){
+    console.log("Rehana");
 }
